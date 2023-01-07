@@ -71,20 +71,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetalShellImpaler&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
