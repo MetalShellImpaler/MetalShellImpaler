@@ -23,16 +23,17 @@ I'm a tech enthusiast who works in IT and is passionate about learning and explo
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on  
+- 🔭 I’m currently working on a Powershell and CMD Scripts. 
   
 
-- 🌱 I’m currently learning   
+- 🌱 I’m currently learning  Python. 
   
 
-- ❓ Ask me about anything related to   
+- ❓ Ask me about anything related to Technology. 
   
 
-- ⚡ Fun fact:   
+- ⚡ Fun fact: 
+I'm a big fan of open source technologies. I'm also a big fan of the GNU/Linux Project.
 
 
 </td><td valign="top" width="50%">
