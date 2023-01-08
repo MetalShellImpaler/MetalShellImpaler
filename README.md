@@ -13,8 +13,10 @@
 
 
 
-### Glad to see you here!  
-  
+###   
+I'm a tech enthusiast who works in IT and is passionate about learning and exploring new technologies. 
+I take an interest in information systems, servers, networking, cybersecurity, and programming, and I have a GitHub repository with of projects and tools.
+I'm constantly updating my repository with new projects and resources that I find interesting and useful.  
   
 
 <br/>  
