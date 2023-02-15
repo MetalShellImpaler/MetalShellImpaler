@@ -11,6 +11,7 @@
 </div>  
   
 
+                            
 
 
 ###   
@@ -19,8 +20,8 @@ I'm a tech enthusiast who works in IT and is passionate about learning and explo
 
 <br/>  
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="anael-russo-59a2321b8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/anael-russo-59a2321b8?trk=profile-badge">Anael Russo</a></div>
               
+                            
               
 
 ## Rapidfire  
