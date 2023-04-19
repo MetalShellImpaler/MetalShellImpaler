@@ -21,7 +21,7 @@ I'm a tech enthusiast who works in IT and is passionate about learning and explo
 <br/>  
 
               
-                            
+<img src="https://tryhackme-badges.s3.amazonaws.com/anaelrusso.png" alt="TryHackMe">                            
               
 
 ## Rapidfire  
@@ -76,4 +76,5 @@ I'm a big fan of open source technologies. I'm also a big fan of the GNU/Linux P
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetalShellImpaler&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
+
 
