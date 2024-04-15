@@ -20,9 +20,8 @@ Explore my Collection of Projects and Tools | Passionate Open-Source Advocate | 
 
 <br/>  
 
-              
-<img src="https://tryhackme-badges.s3.amazonaws.com/anaelrusso.png" alt="TryHackMe">                            
-<script src="https://tryhackme.com/badge/889239"></script>          
+<script src="https://tryhackme.com/badge/889239"></script>              
+<img src="https://tryhackme-badges.s3.amazonaws.com/anaelrusso.png" alt="TryHackMe">      
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
