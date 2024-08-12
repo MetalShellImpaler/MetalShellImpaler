@@ -26,7 +26,7 @@ Explore my Collection of Projects and Tools | Passionate Open-Source Advocate | 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a Powershell and CMD Scripts. 
+- 🔭 I’m currently working on a Powershell and Batch Scripts. 
   
 
 - 🌱 I’m currently learning  Python. 
