@@ -17,7 +17,7 @@
 ###   
 Explore my Collection of Projects and Tools | Passionate Open-Source Advocate | Constantly Updating Repositories with New Projects and Resources
   
-<img src="https://tryhackme-badges.s3.amazonaws.com/anaelrusso.png" alt="Your Image Badge" />
+
 <br/>  
 
  https://tryhackme.com/p/anaelrusso        
