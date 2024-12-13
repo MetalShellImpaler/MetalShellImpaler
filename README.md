@@ -29,7 +29,7 @@ Explore my Collection of Projects and Tools | Passionate Open-Source Advocate | 
 - 🔭 I’m currently working on a Powershell and Batch Scripts. 
   
 
-- 🌱 I’m currently learning  Python. 
+- 🌱 I’m currently learning  Python and Javascript. 
   
 
 - ❓ Ask me about anything related to Technology. 
