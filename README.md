@@ -21,11 +21,7 @@ Explore my Collection of Projects and Tools | Passionate Open-Source Advocate | 
 <br/>  
 
  https://tryhackme.com/p/anaelrusso  
-<img src="https://tryhackme-badges.s3.amazonaws.com/anaelrusso.png" alt="Your Image Badge" />
- 
 <img src="https://tryhackme-badges.s3.amazonaws.com/anaelrusso.png" alt="TryHackMe">    
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=889239" style='border:none;'></iframe>
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
